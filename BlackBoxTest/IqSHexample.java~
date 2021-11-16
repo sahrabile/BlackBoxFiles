@@ -1,0 +1,9 @@
+public class IqSHexample{
+    public static void main(String args[]){
+
+	String testString = "This is the testString";
+	int cons = Iqh.countConsonant();
+	System.out.println("Number of consonants: "+testString;
+	
+    }
+}
